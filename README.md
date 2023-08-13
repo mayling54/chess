@@ -5,7 +5,7 @@ In February 2023,  I developed a chess game in my AP Computer Science course wit
 Specifically, as shown in the source code, I
 * utilized 2D arrays for board setup and piece initialization
 * utilized ArrayLists to correctly identify all legal moves for each chess piece, accounting for the possibility of board edges, other pieces of either color, and special rules (en passant, being pinned, etc.)
-* correctly calculates appropriate moves, updating the state of the game appropriately
+* correctly calculated appropriate moves, updating the state of the game appropriately
 * utilized ArrayLists to return all the squares controlled by the piece as specified by its movement rules
 * utilized inheritance to properly extend Piece.java and overrides the getLegalMoves, getControlledSquares, and toStirng() functions
 * utilized nested loops, instanceof, and ArrayList to identify when a specific colored king is in check
