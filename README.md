@@ -11,7 +11,7 @@ Specifically, as shown in the source code, I
 * utilized nested loops, instanceof, and ArrayList to identify when a specific colored king is in check
 
 ### Technology
-This game is written entirely in Java. The suggested integrated development environment for this program is Eclipse IDE, which is ideal for Java development, but I used VS Code to code this game.
+This game is entirely written in Java. The suggested integrated development environment for this program is Eclipse IDE, which is ideal for Java development, but I used VS Code to code this game.
 
 ### Running
 Compile the project into an executable .jar file by running the following ANT build script on the command line. Make sure jar-in-jar-loader.zip in this repository is in the folder.
