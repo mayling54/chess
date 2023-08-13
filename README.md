@@ -2,7 +2,7 @@
 
 In February 2023,  I developed a chess game in my AP Computer Science course with starter code provided by my teacher.
 
-Specifically, I 
+Specifically, as shown in this repo, I
 * utilized 2D arrays for board setup and piece initialization
 * utilized ArrayLists to correctly identify all legal moves for each chess piece, accounting for the possibility of board edges, other pieces of either color, and special rules (en passant, being pinned, etc.)
 * correctly calculates appropriate moves, updating the state of the game appropriately
